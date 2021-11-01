@@ -30,10 +30,10 @@ Also, make sure python is intalled.
 5. Follow the terminal instructions to get what you need!
 
 Examples:  
-![](https://res.cloudinary.com/dl4murstw/image/upload/v1635759873/Screenshot_2021-11-01_at_5.44.30_PM_dciq3e.png)
-![](https://res.cloudinary.com/dl4murstw/image/upload/v1635759815/Screenshot_2021-11-01_at_5.42.41_PM_lpdyh5.png)
-![](https://res.cloudinary.com/dl4murstw/image/upload/v1635759804/Screenshot_2021-11-01_at_5.43.16_PM_hdijgo.png)
-![](https://res.cloudinary.com/dl4murstw/image/upload/v1635759730/Screenshot_2021-11-01_at_5.42.02_PM_evv5x2.png)
+![](https://res.cloudinary.com/dl4murstw/image/upload/v1635759873/Screenshot_2021-11-01_at_5.44.30_PM_dciq3e.png)  
+![](https://res.cloudinary.com/dl4murstw/image/upload/v1635759815/Screenshot_2021-11-01_at_5.42.41_PM_lpdyh5.png)  
+![](https://res.cloudinary.com/dl4murstw/image/upload/v1635759804/Screenshot_2021-11-01_at_5.43.16_PM_hdijgo.png)  
+![](https://res.cloudinary.com/dl4murstw/image/upload/v1635759730/Screenshot_2021-11-01_at_5.42.02_PM_evv5x2.png)  
 
 
 ### Additional Pricing Charts:
