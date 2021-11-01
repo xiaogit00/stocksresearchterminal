@@ -18,7 +18,7 @@ All in one click!
 `pip install pandas-datareader`  
 `pip install datetime`  
 `pip install pandas_market_calendars`  
-Also, make sure python is intalled.
+Also, make sure python is installed.
 
 2. Clone the project folder into your computer
 
